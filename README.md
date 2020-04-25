@@ -1,5 +1,5 @@
 # Oroom
-The beloved Powershell Scripts that will replace menial tasks and problems. 
+The beloved Python Scripts that will replace menial tasks and problems. 
 
 
 Coming soon (or when I have time):
